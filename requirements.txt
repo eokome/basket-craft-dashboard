@@ -1,0 +1,5 @@
+streamlit==1.57.0
+snowflake-connector-python==4.4.0
+python-dotenv==1.2.2
+pandas==3.0.2
+pyarrow==24.0.0
